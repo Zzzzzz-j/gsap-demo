@@ -12,8 +12,10 @@
     "@ant-design/icons-vue": "^7.0.1",
     "ant-design-vue": "^4.2.3",
     "axios": "^1.7.7",
+    "gsap": "^3.13.0",
     "pinia": "^2.2.2",
     "pinia-plugin-persistedstate": "^3.2.3",
+    "scrolltrigger": "^1.0.1",
     "vue": "^3.4.37",
     "vue-router": "^4.4.3"
   },
