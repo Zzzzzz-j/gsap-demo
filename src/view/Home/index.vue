@@ -18,4 +18,5 @@ function addCount() {
 function minusCount() {
   count.value--;
 }
+
 </script>
